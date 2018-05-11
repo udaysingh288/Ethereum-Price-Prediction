@@ -13,7 +13,7 @@ This project is predicting the fluctuations of cryptocurrency Ethereum using the
 		- Ethereum pricing data (Timeline: September 28th,2017 to March 18th,2018) from Coinmarketcap API.
             - Tweets of the same timeline extracted using Tweepy and Textscraper libraries.
 ###### 2.Core Implementation
-		We implemented LSTM first using historical prices to predict future prices of cryptocurrency. The predictions were not strong enough to predict the fluctuations in the price.
+	We tested LSTM deep learning model first using historical prices to predict future prices of cryptocurrency. The predictions were not strong enough to predict the fluctuations in the price.
 
 ## Our Regression Model -
 We tested our data on various Regression models including **Multiple Linear regression ,SVR and Random forest** and found the **most accurate results** in **Random Forest Regression** 
