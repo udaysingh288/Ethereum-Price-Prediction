@@ -4,7 +4,6 @@
 - Atul Jha   -atuljha23
 - Pratyush Kumar Deka -pratyushdeka255
 - Vishwesh Singh -vishwesh10
-- Harshit Sinha- hsinha7
  
 
 ## Project Details:
