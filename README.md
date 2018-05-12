@@ -19,7 +19,7 @@ We tested our data on various Regression models including **Multiple Linear regr
 The predicted prices plot and statistics of the prediction have been included in the repository.    
 
 ## Credits
-This application uses Open Source tool called **vaderSentiment** which has been used for the sentiment analysis of tweets and reddit posts. You can find the source code of the open source project along with license information below. We acknowledge and are grateful to the developer for the contributions to open source.
+This project uses Open Source tool called **vaderSentiment** which has been used for the sentiment analysis of tweets and reddit posts. You can find the source code of the open source project along with license information below. We acknowledge and are grateful to the developer for the contributions to open source.
 
 Project: **vaderSentiment**  https://github.com/cjhutto/vaderSentiment
 
