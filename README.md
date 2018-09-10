@@ -1,7 +1,7 @@
 # Ethereum-Price-Prediction using Sentiment Analysis
  ## Team:
 - Uday Singh -udaysingh288
-- Atul Jha   -atuljha23
+- Atul Kumar Jha   -atuljha23
 - Pratyush Kumar Deka -pratyushdeka255
 - Vishwesh Singh -vishwesh10
  
