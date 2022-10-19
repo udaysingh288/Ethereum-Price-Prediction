@@ -1,11 +1,7 @@
 # Ethereum-Price-Prediction using Sentiment Analysis
  ## Team:
 - Uday Singh -udaysingh288
-- Atul Kumar Jha   -atuljha23
-- Pratyush Kumar Deka -pratyushdeka255
-- Vishwesh Singh -vishwesh10
  
-
 ## Project Details:
 This project is predicting the fluctuations of cryptocurrency Ethereum using the Twitter Sentiments and Reddit posts.
 ###### 1.Data Extraction
